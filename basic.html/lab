@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>web page</title>
+  </head>
+  <body>
+    <h1>welcome to lab </h1>
+    <p>this is my first page</p>
+    <p>it contains a 
+    <strong>main heading</strong>and <em> para</em>
+    </p>
+  </body>
+</html>
